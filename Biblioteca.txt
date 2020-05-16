@@ -1,0 +1,16 @@
+Id: 3
+Nome: terro de terror
+Duracao: 2
+Diretor: eu
+Genero: terror
+Tipo: 1
+Id: 2
+Nome: Game of thrones
+Duracao: 1:00
+N_Episodios: 10
+Tipo: 3
+Id: 1
+Nome: uso to honto
+Duracao: 2:47
+Artista: keiko
+Tipo: 2
